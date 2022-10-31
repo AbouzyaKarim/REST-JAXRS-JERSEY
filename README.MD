@@ -1,4 +1,4 @@
-<h1>APP REST JAX-RS JERSEY</h1>
+<h1>APP REST using JAX-RS JERSEY</h1>
 <h3>Structure du projet</h3>
 <img src="snapshots/43.PNG">
 <h3>Compte Repo</h3>
